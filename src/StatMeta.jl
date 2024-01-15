@@ -1,3 +1,7 @@
+
+"""
+reexport  CSV,DataFrames
+"""
 module StatMeta
 using Reexport
 include("functions.jl")
