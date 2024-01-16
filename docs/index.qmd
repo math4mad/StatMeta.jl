@@ -1,0 +1,11 @@
+---
+title: "StatMeta package"
+format:
+  html:
+    embed-resources: true
+    self-contained-math: true
+---
+
+:::{.callout-note title="简介"}
+reexport serval packages
+:::
