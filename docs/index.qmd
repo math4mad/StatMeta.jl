@@ -1,5 +1,5 @@
 ---
-title: "StatMeta package"
+title: "StatMeta.jl  package"
 format:
   html:
     embed-resources: true
